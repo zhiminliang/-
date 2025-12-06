@@ -1,0 +1,5 @@
+{
+  "name": "QA Log Insight",
+  "description": "专为软件测试工程师打造的智能日志分析工具。利用 Gemini 分析 iOS、Android 和小程序日志，快速定位根因并提供修复建议。",
+  "requestFramePermissions": []
+}
